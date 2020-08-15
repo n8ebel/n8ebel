@@ -1,4 +1,11 @@
-### Hi there 👋
+# Nate Ebel
+## @n8ebel
+
+
+### Hey devs 👋
+
+- 🔭 I’m currently working on Android at Premise Data
+- 😄 Pronouns: he/him
 
 <!--
 **n8ebel/n8ebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
