@@ -3,13 +3,13 @@
 
 I enjoy building great software and helping others do the same.
 
-[![Email n8ebel](https://img.shields.io/badge/Email-n8ebel@goobar.io-red?style=for-the-badge)](mailto:n8ebel@goobar.io)
+[![Email n8ebel](https://img.shields.io/badge/Email-n8ebel@goobar.dev-red?style=for-the-badge)](mailto:n8ebel@goobar.dev)
 <br>
 [![Website n8ebel](https://img.shields.io/badge/Website-@goobar-yellow?style=for-the-badge)](https://goobar.io/)
 [![Twitter n8ebel](https://img.shields.io/badge/Twitter-@n8ebel-9cf?style=for-the-badge)](https://twitter.com/n8ebel)
 [![LinkedIn n8ebel](https://img.shields.io/badge/LinkedIn-@n8ebel-blue?style=for-the-badge)](https://www.linkedin.com/in/n8ebel/)
 <br>
-[![YouTube n8ebel](https://img.shields.io/badge/YouTube-@goobar-red?style=for-the-badge)](https://www.youtube.com/c/goobario)
+[![YouTube n8ebel](https://img.shields.io/badge/YouTube-@goobar-red?style=for-the-badge)](https://www.youtube.com/c/goobar)
 [![Podcast n8ebel](https://img.shields.io/badge/Podcast-@goobar-blueviolet?style=for-the-badge)](https://goobar.buzzsprout.com/)
 
 
@@ -22,12 +22,12 @@ object Nate {
  val languages = listOf("Kotlin", "Java", "Python")
 
  val website = "https://goobar.io/"
- val youtube = "http://youtube.com/c/goobario"
+ val youtube = "http://youtube.com/c/goobar"
  val podcast = "https://goobar.buzzsprout.com/"
  val contact = "@n8ebel".apply {
    twitter = this
    linkedin = this
-   email = "$this@goobar.io"
+   email = "$this@goobar.dev"
  }
  
  val publishedBooks = listOf("Mastering Kotlin")
